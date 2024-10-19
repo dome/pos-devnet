@@ -4,6 +4,6 @@ rm -rf validator-keys
 --insecure \
 --prysm-pass password \
 --out-loc validator-keys \
---source-mnemonic "giant issue aisle success illegal bike spike question tent bar rely arctic volcano long crawl hungry vocal artwork sniff fantasy very lucky have athlete" \
+--source-mnemonic "resist series earth enroll august pumpkin divide ripple market glide agent luggage virus camp uncle before choice hammer mouse cave legal absurd sight vague" \
 --source-min 0 \
 --source-max 64
